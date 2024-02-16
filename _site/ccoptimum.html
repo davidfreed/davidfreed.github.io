@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>home</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    <div class = "container">
+        <nav class = "navigation">
+    <div> David Freed </div>
+    
+    <a href="/" class ="base">
+        Home
+    </a>
+    
+    <a href="/about.html" class ="base">
+        About
+    </a>
+    
+    <a href="/writings.html" class ="base">
+        Writings
+    </a>
+    
+    <a href="/ccoptimum.html" class="current">
+        CC Optimizer
+    </a>
+    
+</nav>
+        <div class = "content">
+            <p>Gaming the credit card points system is a lucrative Internet subculture. I found it a hard one to crack. Every tool and blog seemed geared to the people who drew psychic pleasure from the game. I wanted to max my $$ and min my effort. Just the most cash back on run-rate spend (excluding free amenities I wouldn’t have paid for, e.g.). Convinced this was a solvable math problem, I built a simple model to tell me the exact cards I needed and what I could save. I calculated ~4% savings on my total spend playing optimally. At a 20% savings rate, it was the same as getting a 3.2% raise! The tool below is to help everyone realize similar savings. There are direct links to apply for the credit cards for convenience, but I get no referral fee. This is for anyone solving for maximum cash back while thinking about it as little as possible. Only the yellow cells are editable right now.</p>
+
+<hr />
+
+<div class="app-container">
+    <div class="form-container">
+        <h2> Enter In Your Expenses </h2>
+            <form id="spendingForm">
+            <!--<div class="form-group">
+                <label for="cs">Credit Score:</label>
+                <input type="number" id="cs" name="cs">
+            </div> -->
+            
+                <div class="form-group">
+                    <label for="Rent"> Monthly spend on Rent: </label>
+                    <input type="number" id="Rent" name="Rent" value="100" />
+                </div>
+            
+                <div class="form-group">
+                    <label for="Hotels"> Monthly spend on Hotels: </label>
+                    <input type="number" id="Hotels" name="Hotels" value="100" />
+                </div>
+            
+                <div class="form-group">
+                    <label for="Flights"> Monthly spend on Flights: </label>
+                    <input type="number" id="Flights" name="Flights" value="100" />
+                </div>
+            
+                <div class="form-group">
+                    <label for="TravelO"> Monthly spend on TravelO: </label>
+                    <input type="number" id="TravelO" name="TravelO" value="100" />
+                </div>
+            
+                <div class="form-group">
+                    <label for="Food"> Monthly spend on Food: </label>
+                    <input type="number" id="Food" name="Food" value="100" />
+                </div>
+            
+                <div class="form-group">
+                    <label for="Entertainment"> Monthly spend on Entertainment: </label>
+                    <input type="number" id="Entertainment" name="Entertainment" value="100" />
+                </div>
+            
+                <div class="form-group">
+                    <label for="Gas"> Monthly spend on Gas: </label>
+                    <input type="number" id="Gas" name="Gas" value="100" />
+                </div>
+            
+                <div class="form-group">
+                    <label for="Other"> Monthly spend on Other: </label>
+                    <input type="number" id="Other" name="Other" value="100" />
+                </div>
+            
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+    <div class="result-container">
+        <h2>Recommended Credit Cards</h2>
+        <!-- <p>Look at me, I'm a recommendation!</p> -->
+        <div id="creditCardList"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/9.4.4/math.js"></script>
+
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/1yHVYSMceuYCuaKJO5kbruM_eQbPLqroPaBK9gw3_ePI/edit?usp=sharing?gid=896380124&amp;single=true&amp;widget=true&amp;rm=minimal&amp;headers=false"></iframe> -->
+
+        </div>
+    </div>
+  </body>
+</html> 

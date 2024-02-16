@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Writings
+  link: /writings.html
+- name: CC Optimizer
+  link: /ccoptimum.html
