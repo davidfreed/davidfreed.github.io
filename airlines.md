@@ -105,17 +105,17 @@ With our new base valuations, we can value the rewards from each portal. Airline
 
 I assessed both. Let's start with the prices. As I did my own points valuations, I compared listed flight prices to what Chase + AmEx showed for these airlines. Here’s the median mark-up:
 
-![blah](./assets/images/airlinemarkup.jpg)
+![blah](./assets/images/airlinemarkup.JPG)
 
 American dominates the graph: it is the one airline who massively marks up prices on third-party providers to drive traffic to its website. The rest post nearly identical prices, perhaps reflecting the premium they put on filling planes over extracting marginal rents. The AmEx / Chase difference came from the fact AmEx undercut Chase by exactly $1 on 95% of bookings I looked at. Absolutely hilarious competitive move.
 
 The next question is whether the best airline card[^4] beats the best Chase/AmEx cards. I’ve plotted how many bonus miles those cards give back on the graph below, along with how many cents that’s worth given the valuations above. I’ve compared that to the benchmark 7.5% Chase and 5.0% AmEx return rates (the 5x points/dollar spent times the point values we said above). 
 
-![blah](./assets/images/airlinevalue.jpg)
+![blah](./assets/images/airlinevalue.JPG)
 
 Combining these graphs together, we can estimate the total discount (in points+miles combined value) from all three main options: (a) booking through the Chase portal, (b) booking through the AmEx portal, and (c) booking on the airline portal with the best credit card. This accounts for the price you pay on the portal, the value of the miles you get back, and the value of the points you get. 85% means you pay 85% of listed price (15% discount). Best answers in green.
 
-![blah](./assets/images/airlinetable.jpg)
+![blah](./assets/images/airlinetable.JPG)
 
 We’ll dive into some caveats in a second, but the first takeaway is that by playing this game optimally, we can save nearly 15% on almost every airline booking! If we just booked the basic rate through each airline, we’d be saving about 8% less. That’s pretty chunky. 
 

@@ -31,13 +31,13 @@ As I noted above, Hotels are far more hostile to outside travel agencies than th
 
 To do a like-for-like comparison to hotels, we need to see our rebate when we book directly on the hotel website. Status matters quite a bit here. You get credit for status only when booking through the hotel, not the credit card (which gives a flat redemption) In the following chart, I've graphed how that hotel-portal rebate changes with status. The four different stacks of columns show the rebate using the hotel’s best credit card[^2] at different status levels in the loyalty program. All the credit cards automatically give you some level of status, so the irrelevant tiers are in gray (the Hilton card makes you automatically top status, so you can't have it & be a Silver member). This assumes the “economy” points valuations from earlier to be reflect modal customer spend.  
 
-![blah](/assets/images/hotelrebate.jpg)
+![blah](/assets/images/hotelrebate.JPG)
 
 This gives a good perspective on the relative richness of each loyalty program. World of Hyatt laps the competition, giving 17% back (!!) to anyone who even registers for a base program. That’s higher than Hilton and Marriott give their *most loyal* customers. While Hyatt’s options can get pricey, they do have some good budget options and are inarguably the best brand at which to have status. 
 
 For the purposes of comparing programs, we will use the base rewards you get with the corresponding credit card. Loyalty for hotels is measured in nights spent on property, and moving up a level costs 15-20 additional nights. Conservatively, that's at least $3,000 - more than you'd ever want to pay to just increase your rebate amount. This means our base redemption is 13% for Hilton, 18% for IHG, 9% for Marriott (ew), and 18% for Hyatt. In the graph below, you can see how this compares to the Chase and AmEx redemptions:
 
-![blah](/assets/images/hotelcomparison.jpg)
+![blah](/assets/images/hotelcomparison.JPG)
 
 The first lesson: never use an AmEx! Between the markups and low-value points, the rewards for booking on the AmEx portal are worse than booking with no status on the hotel portal directly. Chase is a different story. For both Marriott and Hilton, it is the clear better option even before factoring in the additional liquidity of Chase points[^3]. The other two are trickier cases. Let's start with Hyatt. While the Hyatt redemptions at first blush look far better than Chase, you should still book all your Hyatt travel on the Chase portal. Why? Because when you use the best credit card, you only get 9.5 points per dollar spent on the Hyatt website. Since those points are highly valuable, that delivers a nice, 17.7% rebate. However, if you did that same booking through Chase, you can get 10 Hyatt points - by trading your 10 Chase points 1:1 to Hyatt through the partnership agreement. To get more than 10 pts/dollar from Hyatt, you need to be at its top-level 'Globalist' tier, where for spending 60 nights in a resort you get all of... 10.5 points / dollar. Given the liquidity tradeoff, you'd almost certainly prefer Chase then too.
 
