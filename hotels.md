@@ -20,7 +20,7 @@ Before continuing, if you are a total newcomer to the space, I suggest reading t
 **Valuing Your Return**     
 Similar to airlines, we have to start by valuing the different loyalty points. I discussed in that piece my issues with public estimates, (e.g. combining economy / luxury & domestic / int’l travel) so I once again sense-checked with my own estimates. I've plotted the public estimate average against my own for economy ($150-$250 per/night) and luxury ($250+) stays across major U.S. cities[^1]. 
 
-![blah](/assets/images/hotelvalues.jpg)
+![blah](/assets/images/hotelvalues.JPG)
 
 The public estimates here were more accurate than the airline ones, but still much higher than a typical economy reservation. Unlike airlines, there were significantly improved returns the more expensive the hotel across each of the four main chains (this held too as you went more and more luxury). What stands out most though is the wide variance in points across the chains: only Hyatt offers a decent return, and their points are worth a TON. More than any other loyalty program I’ve seen before.
 
