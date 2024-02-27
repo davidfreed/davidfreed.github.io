@@ -1,6 +1,7 @@
 .container {
     display: flex;
-    height: 100vh;
+    height: 100%;
+    min-height: 100vh;
     //align-items: center;
     // justify-content: flex-start;
     // padding: 8px;
@@ -39,10 +40,16 @@ iframe {
     height: 600px;
 }
 
-img {
+.headshot {
     display: flex;
     width: 160px;
     height: 160px;
+}
+
+.blog-image {
+    display: flex;
+    width: 25%;
+    height: flex;
 }
 
 p {
@@ -78,5 +85,10 @@ li {
 
 .result-container {
     width: 40%;
+}
+
+.td {
+    border: 1px;
+    color: black;
 }
 

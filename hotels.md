@@ -1,0 +1,68 @@
+---
+layout: default
+title: home
+---
+
+# Booking Hotels: Chase Remains Value-Town
+
+This is the second post in my quests to find the answers to our desperately complex travel rewards system. In the [first](/airlines.md), I tackled the question of where to book all your airline travel (spoiler: it’s always Chase). This edition looks at how to do the same for booking hotels. I’ll avoid repeating too much ground between articles.  
+
+**The Answer**      
+Four assumptions, most similar to last time. First, your goal is spending as little as possible. Second, you have the credit for Chase Sapphire Reserve and the spend to justify it (~$10K on food/groceries will do it). Third, your travel is 85% domestic. Four, you aren't planning to stay in a Holiday Inn 20 times this year (see below for more on this). Assuming that..
+1. Register for a [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve) immediately!
+2. Use Expedia / Booking.com to find your hotel
+3. Go to the Chase portal and book it directly! Enjoy 13% off!
+
+That’s it! You don’t need multiple credit cards, points transfers, or anything. If you want to know *why* this works, read the rest. Otherwise, you’re all set! Happy savings!
+
+Before continuing, if you are a total newcomer to the space, I suggest reading the [airline article](/airlines.md) for the background on the points industry, the different points valuations, etc. Hotels work very similar to airlines with one huge difference: if you book through a third-party, you get airline miles but do not get any hotel points. This is a big complicating factor, as we’ll see.  
+
+**Valuing Your Return**     
+Similar to airlines, we have to start by valuing the different loyalty points. I discussed in that piece my issues with public estimates, (e.g. combining economy / luxury & domestic / int’l travel) so I once again sense-checked with my own estimates. I've plotted the public estimate average against my own for economy ($150-$250 per/night) and luxury ($250+) stays across major U.S. cities[^1]. 
+
+![blah](/assets/images/hotelvalues.jpg)
+
+The public estimates here were more accurate than the airline ones, but still much higher than a typical economy reservation. Unlike airlines, there were significantly improved returns the more expensive the hotel across each of the four main chains (this held too as you went more and more luxury). What stands out most though is the wide variance in points across the chains: only Hyatt offers a decent return, and their points are worth a TON. More than any other loyalty program I’ve seen before.
+
+For this, we will value credit card points in the same conservative way we did before: 1.5 cents for Chase, and 1 point for AmEx. Chase gives 10 points for bookings on its platform, AmEx 5, so the standard return per dollar spent is 15% for Chase and 5% for AmEx. Other programs are strictly dominated by these two since even the best cards don’t earn comparable points; for these purposes, we are going to narrow it down to just these. Unlike airlines, the findings here are less clear so this will turn into quite an important assumption.  
+
+**The Value of Different Booking Portals**      
+As I noted above, Hotels are far more hostile to outside travel agencies than the airlines. I suspect the reason is that they live in a far more competitive environment - airlines have more monopoly power because of the limited supply of routes. I can’t choose among 4 airlines if I want to fly from San Francisco to Miami Friday morning: there’s probably 2-3 carriers with flights that suit my constraints. But when I’m finding a place to stay, I’ve likely got 10 different chains reasonably close to my destination, plus Airbnbs, friend’s houses, etc. You see this as a consumer in higher credit card portal prices. Both Chase and AmEx reported identical figures for each chain, at prices that were just slightly higher than those available on the hotel websites (once you did a free registration for their loyalty program). Hilton, Marriott, and Hyatt each charged a ~2% premium, while IHG charged 5.2%. The hikes overall are not too bad - with airlines, the credit card rewards more than overcame these small fees. 
+
+To do a like-for-like comparison to hotels, we need to see our rebate when we book directly on the hotel website. Status matters quite a bit here. You get credit for status only when booking through the hotel, not the credit card (which gives a flat redemption) In the following chart, I've graphed how that hotel-portal rebate changes with status. The four different stacks of columns show the rebate using the hotel’s best credit card[^2] at different status levels in the loyalty program. All the credit cards automatically give you some level of status, so the irrelevant tiers are in gray (the Hilton card makes you automatically top status, so you can't have it & be a Silver member). This assumes the “economy” points valuations from earlier to be reflect modal customer spend.  
+
+![blah](/assets/images/hotelrebate.jpg)
+
+This gives a good perspective on the relative richness of each loyalty program. World of Hyatt laps the competition, giving 17% back (!!) to anyone who even registers for a base program. That’s higher than Hilton and Marriott give their *most loyal* customers. While Hyatt’s options can get pricey, they do have some good budget options and are inarguably the best brand at which to have status. 
+
+For the purposes of comparing programs, we will use the base rewards you get with the corresponding credit card. Loyalty for hotels is measured in nights spent on property, and moving up a level costs 15-20 additional nights. Conservatively, that's at least $3,000 - more than you'd ever want to pay to just increase your rebate amount. This means our base redemption is 13% for Hilton, 18% for IHG, 9% for Marriott (ew), and 18% for Hyatt. In the graph below, you can see how this compares to the Chase and AmEx redemptions:
+
+![blah](/assets/images/hotelcomparison.jpg)
+
+The first lesson: never use an AmEx! Between the markups and low-value points, the rewards for booking on the AmEx portal are worse than booking with no status on the hotel portal directly. Chase is a different story. For both Marriott and Hilton, it is the clear better option even before factoring in the additional liquidity of Chase points[^3]. The other two are trickier cases. Let's start with Hyatt. While the Hyatt redemptions at first blush look far better than Chase, you should still book all your Hyatt travel on the Chase portal. Why? Because when you use the best credit card, you only get 9.5 points per dollar spent on the Hyatt website. Since those points are highly valuable, that delivers a nice, 17.7% rebate. However, if you did that same booking through Chase, you can get 10 Hyatt points - by trading your 10 Chase points 1:1 to Hyatt through the partnership agreement. To get more than 10 pts/dollar from Hyatt, you need to be at its top-level 'Globalist' tier, where for spending 60 nights in a resort you get all of... 10.5 points / dollar. Given the liquidity tradeoff, you'd almost certainly prefer Chase then too.
+
+So Chase dominates Hilton, Marriott, and Hyatt at all status levels. Can it climb the final frontier: IHG? This is a tricky question. The first question we have to answer is whether the IHG credit card is worth the spend. The $99 annual fee comes with a free night and 16 extra points/night (~11% savings versus having no card/status), so it pays itself off pretty quick. Your question then comes down to whether you'd prefer an up-front 5% fee and 10 Chase points (to spend on other properties) or 18 cents of IHG value. This is mostly a liquidity preference decision - if you're frequently booking IHG hotels (Holiday Inn, Crowne Plaza, Hotel Indigo, etc.) then it's no question but otherwise those points are likely to forever go unused. The average IHG economy room in my analysis cost 36,000 points to redeem: to make that many, you'd need to spend ~$1.4K on IHG, or ~6-7 nights.       
+
+In my own life, that's not enough value to make up the illiquidity premium, but I do <10 nights of hotel business travel a year. The breakeven point for me would be closer to 20-25, where I'd be redeeming free nights regularly every 3-4 months to reduce inflation risk, but this, sadly, I cannot tell you for certain. Assuming your habits resemble mine (or you value simplicity above the marginal savings), the algorithm is straightforward and extremely easy!   
+1. Register for a [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve) immediately!
+2. Use Expedia / Booking.com to find your hotel
+3. Go to the Chase portal and book it directly! Enjoy 13% off!
+
+Happy saving!
+
+*Data as of February 2024*   
+
+---------
+
+### Caveats, Counter-Arguments, And Disclaimers
+The disclaimers on the airline piece cover most of what I'd include here, so adding only a few other hotel-specific points.
+
+**Budget Carriers:** Like with airlines, if you want to use more budget options, the analysis won't apply. Not all budget hotels list on credit card portals, but are easily accessible on booking.com. If you book these stays through your Chase card but not the portal, you'll get 3 points per dollar spent on the portal, translating to 4.5% off. That's reasonable enough. 
+
+**Transfers:** Transferring Chase or AmEx points to non-Hyatt hotels is lighting money on fire. Do this basically never.  
+
+---------
+### Footnotes     
+[^1]: Including major areas across the U.S. (Chicago / Minneapolis in MidWest, Nashville / Austin in South, Boston / New York in East, etc.) 
+[^2]: That's the [Hilton AmEx Aspire](https://thepointsguy.com/credit-cards/american-express/reviews/hilton-amex-aspire-review/), the [IHGOne Rewards Premier](https://www.nerdwallet.com/reviews/credit-cards/ihg-credit-card), the [Marriott Bonvoy Boundless](https://creditcards.chase.com/a1/marriottbonvoydual/aep/) and the [World of Hyatt](https://thepointsguy.com/credit-cards/world-of-hyatt-credit-card/)
+[^3]: See the closing commentary on the [airline piece](/airlines.md) for more on this.

@@ -106,7 +106,7 @@ document.getElementById('spendingForm').addEventListener('submit', function(even
                 RewardVal = RewardVal + maxReturns2[j][1]
             }
         }
-        ccinfo3.push([ccinfo2[i][0], ccinfo2[i][1], RewardVal, RewardVal-ccinfo2[i][1], ccinfo2[i][2]])
+        ccinfo3.push([ccinfo2[i][0], ccinfo2[i][1], RewardVal, RewardVal-ccinfo2[i][1], ccinfo2[i][4]])
     }
     console.log(ccinfo3)
 

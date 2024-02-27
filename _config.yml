@@ -1,0 +1,22 @@
+title: David Freed's Website
+description: > 
+  David Freed's personal website.
+
+# Build settings
+markdown: kramdown
+theme: minima # or any other theme you are using
+plugins:
+  - jekyll-feed # example plugin, add or remove plugins as needed
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  auto_ids: true
+  toc_levels: 1..6
+  entity_output: as_char
+  smart_quotes: apos,apos,quot,quot
+  enable_coderay: false # set to true if you want syntax highlighting
+
+# Optional: if you're using GitHub Pages, you might want to include this
+github:
+  is_project_page: false

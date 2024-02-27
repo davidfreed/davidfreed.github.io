@@ -33,6 +33,3 @@ Gaming the credit card points system is a lucrative Internet subculture. I found
 
 <script src="script.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/9.4.4/math.js"></script>
-
-
-<!-- <iframe src="https://docs.google.com/spreadsheets/d/1yHVYSMceuYCuaKJO5kbruM_eQbPLqroPaBK9gw3_ePI/edit?usp=sharing?gid=896380124&amp;single=true&amp;widget=true&amp;rm=minimal&amp;headers=false"></iframe> -->
