@@ -5,26 +5,22 @@ title: home
 
 # Booking Flights: All Roads Lead Back to Chase
 
-Booking flights online is tedious and confusing. There are a byzantine maze of rules surrounding credit card points, airline reward programs, and travel booking portals. Are points preferable to miles? When do you redeem miles? What transfers are good? What transfers are bad? I like games, and what follows is my quest down the rabbit hole to find the answer to a simple question: *how do I get the best possible deal?*    
+Booking flights online is tedious and confusing. There is a byzantine maze of rules surrounding credit card points, airline reward programs, and travel booking portals. Are points preferable to miles? When do you redeem miles? What transfers are good? What transfers are bad? At some point, it becomes a bit of a video game. Sitting down earlier this year to book my travel for the wedding season, I became more and more curious about how you play this game. I burrowed down rabbit hole after rabbit hole and came out the other side convinced like most video games, there's a dominant strategy to this one. What follows is the result of my quest to find one.
 
 **The Answer**      
-I assume three things. First, your goal is spending as little as possible. Second, you have the credit for Chase Sapphire Reserve and the spend to justify it (~$10K on food/groceries will do it). Third, your travel is 85% domestic. Assuming that..
+Let's get right to it! If your goal is to spend as little as possible and you've got the credit for a Chase Sapphire Reserve and enough spend to justify it (~$5K annually on travel/food[^1]), then:
 1. Register for a [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve) immediately!
-2. Go to [Kayak](www.kayak.com) and find the cheapest option that meets your needs
-3. If you have enough miles to get this for free on the airline, use them.
+2. Go to [Kayak](www.kayak.com) and find the cheapest flight for your needs
+3. If you have enough miles to get this for free on the airline, use them. 
 4. Otherwise, book American flights on [aa.com](www.aa.com) and everything else on Chase’s travel portal
 
-That’s it! You don’t need multiple credit cards, points transfers, or anything. If you want to know *why* this works, read the rest. Otherwise, you’re all set! Happy savings!
+It's really that simple! You don’t need multiple credit cards, points transfers, or anything. If you want to know *why* this works, read the rest. Otherwise, you’re all set! Happy savings!
 
 **Background**       
-Most consumer destinations in the U.S. have loyalty programs. These programs reward you for your spend (nicely rebranded as “loyalty”) with non-cash returns. Hotels / grocery stores / credit cards call them ‘points’ and airlines call them ‘miles’. Once you get enough, you can redeem them for products on their platform. It’s dressed up as a game to (a) keep people loyal, and (b)  incentivize you to spend more than you otherwise would to hit the next redemption threshold. Credit cards take this to the extreme - competing vigorously for customers’ attention by offering more and more ‘points’ per purchase. To increase the value of their points, they spend a ton of money to make it a closer substitute for cash: all the major brands have personalized travel portals and relationships with airlines/hotels so you can trade their points for other points. 
-
-When you buy an airline ticket in the U.S., you have two major ways to do it: through the airline/hotel’s website, or through a Chase/AmEx/CapitalOne travel portal. Depending how you do it, with which card, etc. you get a certain package of points and miles coming back. The whole thing is basically a video game.
+Most consumer destinations in the U.S. have loyalty programs. These programs reward you for your spend (nicely rebranded as “loyalty”) with non-cash returns. Hotels / grocery stores / credit cards call them ‘points’ and airlines call them ‘miles’. Once you get enough, you can redeem these for products on their platform. It’s dressed up as a game to (a) keep people loyal, and (b)  incentivize you to spend more than you otherwise would. In the credit card industry, a main way they compete for customer attention is offering more ‘points’ per purchase. To increase the value of their points, they try to make it a closer cash substitute: each major brand has personalized travel portals and relationships with airlines/hotels so you can trade their points for other points. When you buy your airline tickets, you can od it either through the airline/hotel directly, or these Personalized travel portal. Depending how you do it, with which card, etc. you get a certain package of points and miles. It is literally a video game!
 
 **Valuing Your Return**     
-If booking travel in various ways gets you different party bags of miles and points, the first question is what those points are worth. Three main websites do this: [Bankrate](https://www.bankrate.com/finance/credit-cards/points-and-miles-valuations/#methodology), [Nerdwallet](https://www.nerdwallet.com/article/travel/airline-miles-and-hotel-points-valuations), and [The Points Guy](https://thepointsguy.com/guide/monthly-valuations/) (“TPG”). TPG doesn’t disclose a methodology (sus!) but the other two have a straightforward one. For airlines, compare what they charge you in points & miles on a pre-set list of flights to get the cash value of miles. For credit cards, look at what airline/hotel partners you can transfer these points to - either take the highest valuation of those or average the couple highest together. 
-
-However, I reflexively distrust any source making money on my decision and these companies make all their profits on partner referrals (NerdWallet makes $600M a year on this!). So I sat down and did my own valuations. I modeled my methodology on my own flying habits: looking at flights from SFO across the country[^1] booked three and six months from now. I broke out values for first class and economy seating to better understand where to spend! I plotted these against the main providers, as well as the average of their estimates:
+If booking travel in various ways gets you different party bags of miles and points, the first question is what those points are worth. Three main websites do this: [Bankrate](https://www.bankrate.com/finance/credit-cards/points-and-miles-valuations/#methodology), [Nerdwallet](https://www.nerdwallet.com/article/travel/airline-miles-and-hotel-points-valuations), and [The Points Guy](https://thepointsguy.com/guide/monthly-valuations/) (“TPG”). TPG doesn’t disclose a methodology (sus!) but the other two have a straightforward one. For airlines, compare what they charge you in points & miles on a pre-set list of flights to get the cash / mile exchange rate. For credit cards, look at what airline/hotel partners you can transfer these points to - either take the highest valuation of those or average the couple highest together. I didn't trust these sources since their profits come from me buying more credit cards (NerdWallet does $600M a year this way!), so I sat down and did my own valuations. I modeled my methodology on my own flying habits: looking at flights from SFO across the country[^2] booked three and six months from now. More on int'l travel below. I broke out values for first class and economy seating to better understand which offers better valuations, and plotted these against each providers, as well as the average of the 3 estimates. 
 
 <table style="border-collapse: collapse; width: 40%; text-align: center;">
   <tr style="background-color: #980000; color: white;">
@@ -92,44 +88,38 @@ However, I reflexively distrust any source making money on my decision and these
   </tr>
 </table>
 
-Four main lessons: 
-- There is a massive spread on how these different companies value points, making their individual methodologies less credible and the average a superior benchmark
-- Redeeming a miles for a business seat is more expensive redeeming it for an economy seat. This was counterintuitive to me, since most online commentary suggests the best points value is on luxury stays
+Three main lessons: 
+- Bankrate, TPG, and Nerdwallet valuations differ by as much as 70%! Their averages lined up close to my economy valuations, so I used those averages as my base case  
+- Counterintuitively, you get less bang for your buck when redeeming miles for higher-price business class tickets (which are also much higher-margin for the airline!)
 - Airlines have reasonably consistent redemptions - the variance on valuations across flights was fairly small
-- The average of the three providers lined up well with my economy valuations - for the further analysis below, I’ll stick with the economy ones 
 
-For credit card points, I reject the outside methodology out of hand. The point’s value to *me* should be a weighted mix of airlines/hotels I would transfer it to, not the best ones. I don’t use Korean Air (1.7 cents/mile), so it's irrelevant to valuing my credit card points. Two certainties guide valuation: (a) each credit card point can be converted to cash at 1 cent/point; and (b) a Chase Sapphire Reserve point can be redeemed for 1.5 cents/point on travel spend. My redemptions are lower than my annual travel spend, so I get a valuation floor of 1.5 cents for Chase, and 1 cent for other cards. With these conservative estimates, I'll show you're always better off with Chase than the airlines. If you value credit card points higher, the analysis holds.
+For credit card points, I reject the methodology of the other providers. The point’s value to *me* should be a weighted mix of airlines/hotels *I* would transfer it to, not the best ones. They raise the value of AmEx up because those points transfer to Korean Air (1.7 cents/mile), but I'll never fly that airline. Their points could be 10 cents a point, and it wouldn't make my credit card points functionally more useful. Two certainties guide valuation: (a) each credit card point can be converted to cash at 1 cent/point; and (b) a Chase Sapphire Reserve point can be redeemed for 1.5 cents/point on travel spend. My annual travel spend exceeds the amount of points I can redeem, so I get a valuation floor of 1.5 cents for Chase, and 1 cent for other cards. With these conservative estimates, I'll show you're always better off with Chase than the airlines. If you value credit card points higher, the analysis still holds.
 
 **The Value of Different Booking Portals**      
-With our new base valuations, we can value the rewards from each portal. Airlines award miles for what you pay[^2] (5-6 miles / dollar). Credit cards do the same - it varies significantly by card, but main AmEx + Chase cards[^3] give 5x points / dollar spent on their portal booking flights. Crucially, when you book on the credit card portal, you still get the miles you’d get through the airline portal. This differentiates airlines from hotels, who don’t offer you the same courtesy. This slants immediately towards credit card portals, but there are two mitigating factors. First, credit card portals are fourth-party ticket providers: the backend of Chase is Expedia, so orders there get routed before coming to the airline. With multiple middlemen who need to be paid, it's plausible the consumer gets stuck with a higher price! Second, each credit card has an opportunity cost. Is the Chase return for United better than swiping the best United card? 
+With our new base valuations, we can value the rewards from each portal. Airlines award miles for what you pay[^3] (5-6 miles / dollar). Credit cards do the same - it varies significantly by card, but main AmEx + Chase cards[^4] give 5x points / dollar you spend on their portal booking flights. Crucially, when you book on the credit card portal, you still get the miles you’d get through the airline portal. This differentiates airlines from hotels, who don’t offer you the same courtesy. This slants immediately towards credit card portals, but there are two mitigating factors. First, credit card portals are fourth-party ticket providers: the backend of Chase is Expedia, so orders there get routed before coming to the airline. With multiple middlemen who need to be paid, it's plausible the consumer gets stuck with a higher price! Second, each credit card has an opportunity cost. Is the Chase return for United better than swiping the best United card? 
 
 I assessed both. Let's start with the prices. As I did my own points valuations, I compared listed flight prices to what Chase + AmEx showed for these airlines. Here’s the median mark-up:
 
-![blah](./assets/images/airlinemarkup.JPG)
+![AirlineMarkup](./assets/images/airlinemarkup.JPG)
 
-American dominates the graph: it is the one airline who massively marks up prices on third-party providers to drive traffic to its website. The rest post nearly identical prices, perhaps reflecting the premium they put on filling planes over extracting marginal rents. The AmEx / Chase difference came from the fact AmEx undercut Chase by exactly $1 on 95% of bookings I looked at. Absolutely hilarious competitive move.
+American is the one airline who massively marks up prices for third-party providers. The rest post nearly identical prices, reflecting that filling every seat is more important than price per ticket. The AmEx / Chase difference comes from how AmEx undercuts Chase by exactly $1 on 95% of bookings I looked at (lol). The next question is whether the best airline card[^5] beats the best Chase/AmEx cards. I’ve plotted how many bonus miles those cards give back on the graph below, along with how many cents that’s worth. I’ve compared that to the benchmark 7.5% Chase and 5.0% AmEx return rates (5x points/dollar times the point values above). 
 
-The next question is whether the best airline card[^4] beats the best Chase/AmEx cards. I’ve plotted how many bonus miles those cards give back on the graph below, along with how many cents that’s worth given the valuations above. I’ve compared that to the benchmark 7.5% Chase and 5.0% AmEx return rates (the 5x points/dollar spent times the point values we said above). 
+![AirlineValue](./assets/images/airlinevalue.JPG)
 
-![blah](./assets/images/airlinevalue.JPG)
+Combining these graphs together, we can estimate the total discount (in points+miles combined value) from the Chase/AmEx portals to booking on the airline's website with their best credit card. This accounts for the price you pay on the portal, the value of the miles you get back, and the value of the points you get. 85% means you pay 85% of listed price (15% discount). Best answers highlighted in green.
 
-Combining these graphs together, we can estimate the total discount (in points+miles combined value) from all three main options: (a) booking through the Chase portal, (b) booking through the AmEx portal, and (c) booking on the airline portal with the best credit card. This accounts for the price you pay on the portal, the value of the miles you get back, and the value of the points you get. 85% means you pay 85% of listed price (15% discount). Best answers in green.
+![AirlineTable](./assets/images/airlinetable.JPG)
 
-![blah](./assets/images/airlinetable.JPG)
+The first takeaway: by playing this game optimally, we can save nearly 15% on all our airline bookings! Booking the basic rate with each airline gives a 7% payback, so we are doubling our savings. That's pretty chunky.
 
-We’ll dive into some caveats in a second, but the first takeaway is that by playing this game optimally, we can save nearly 15% on almost every airline booking! If we just booked the basic rate through each airline, we’d be saving about 8% less. That’s pretty chunky. 
+The dominant strategy which stands out is using the Chase portal. Two airlines stand out: on American, the huge markup means we should use their portal to book; and on JetBlue, we are slightly better off with their card on a per-flight basis. There, the difference is minor (1.5%) so to make up the $100 fee, you'd need to be spending $6.8K a year on JetBlue (~25-30 flights) to justify it[^6]. I am nowhere close to this - overall, I do not stay loyal to individual airlines because the reward program returns don't beat the economic returns of the "pick the cheapest flight" tactic. Doing that on Kayak saves me 15-20% versus taking whatever, say, American offers in that time slot. But if I pick a JetBlue flight on Kayak and book it on Chase, I get 95% of my maximum savings and 0% of the credit card cost.
 
-The dominant strategy is clearly using either the Chase portal OR the main airline card. For American, it’s obvious we won’t use Chase because of the huge markup, but for United and JetBlue it’s not as clear. We save 1.5-2% on each booking with the main cards, but is that worth the card free? I compared each airline card to the next best alternative (Chase for United / JetBlue; no card for American) by dividing the marginal savings by the annual cost of the card and found that to get breakeven you need:
-- Annual spend of 10.5K on American (42 flights at $250/one-way flight)
-- Annual spend of 4.7K on United (19 flights)
-- Annual spend of 6.8K on JetBlue (27 flights)
-
-From my experience, that is a raw deal! I am not a loyal airline flier because the reward program returns aren’t good enough to make up for cost leakage of being loyal. Picking Kayak's cheapest flight in my travel window is 15-20% cheaper than taking whatever, say, American offers in that time slot. But if I pick my flight on Kayak and book it on Chase, I get 95% of the maximum savings with 0% of the marginal credit card cost. It's this conclusion that motivates the simple optimal algorithm. If you fly each airline equally, it’ll save you ~13.2% in mile/point value for each flight you buy in cash. However, since you’ll rack up valuable Chase points like no tomorrow, expect quite a few free flights in your future!  
+Given this, I end up with a very simple algorithm. By flying each airline equally, you'll get ~15% in mile/point value for each flight you buy in cash. However, since you’ll rack up valuable Chase points like no tomorrow, expect quite a few free flights in your future!  
 
 The Algorithm:
 1. Register for a [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve) immediately!
-2. Go to [Kayak](www.kayak.com) and find the cheapest option that meets your needs
-3. If you have enough miles to get this for free on the airline, use them.
+2. Go to [Kayak](www.kayak.com) and find the cheapest flight for your needs
+3. If you have enough miles to get this for free on the airline, use them. 
 4. Otherwise, book American flights on [aa.com](www.aa.com) and everything else on Chase’s travel portal
   
 Happy saving!
@@ -141,19 +131,63 @@ Happy saving!
 ### Caveats, Counter-Arguments, And Disclaimers
 OK, now let’s get to the section for travel sickos. For completeness, here are a couple other considerations that I went through:
 
-**Points v Miles Values:** The analysis treats both as fungible and interchangeable for simplicity, but points >> miles for a couple reasons. First, miles have a step-value redemption function. You can redeem 11,000 miles and 5,000 miles for the same thing: zilch. If you don’t constantly book with any one airline, this really hurts. The <10K miles I have with JetBlue will stay there forever given its lack of routes in the West. Second, miles aren’t redeemable for cash so are subject to constant deflation risk by the provider. Points are pegged to cash so have less of this risk: although credit cards will sometimes devalue their promotions, the base values are constant. This slants the solution even more towards the “Chase-always” equilibrium.
+**Points v Miles Values:** The analysis treats both as fungible and interchangeable for simplicity, but points >> miles for a couple reasons. First, miles have a step-value redemption function. You can redeem 11,000 miles and 5,000 miles for the same thing: zilch. If you don’t constantly book with any one airline, this really hurts. The <10K miles I have with JetBlue will stay there forever given its lack of routes in the West. Second, miles aren’t redeemable for cash so are subject to constant deflation risk by the provider. Points are pegged to cash so have less of this risk: although credit cards will sometimes devalue their promotions, the base values are constant. Third, airlines won't let you redeem miles for cash on every flight since they need at least someone paying. However, Chase/AmEx let you exchange your points directly for any flight on their portal. The limited mile redemption is especially bad when you try and book international flights on airline websites: a large percentage don't offer mile redemptions, giving a significant premium to the more liquid credit card points. All three of these reasons should increase your effective value on points, and slant your solution even more towards a “Chase-always” equilibrium.
 
-**Airline Status:** High status is unattainable as a consumer traveler. The amount of flights / spend you need is only justifiable if your business pays: if you’re doing that much consumer travel on your own dime, you’re probably rich enough to own the fucking jet. Optimizing for this over “take the cheaper airline” is likely a cash-burning strategy. Also, getting higher status on the airline doesn’t change the math on which portal to book with because it only affects base miles (i.e. miles you get no matter how you book the flight). The marginal value on the portal will still exceed that of the airline credit card. 
+**International Flights:** The above analysis focuses on domestic flights, but the conclusions generally apply to international flights as well. For international flights, the main three carriers you'll use in the U.S. are American, Delta, or United (or their respective partners). Alaska, JetBlue, and Southwest have too limited coverage maps to be relevant. For these, I did another analysis of the points values flying from SFO all around the world. I picked 10 cities across Asia, Europe, South America, and Africa and found redemptions for international flights to largely be much better.
+
+<table style="border-collapse: collapse; width: 20%; text-align: center;">
+  <tr style="background-color: #980000; color: white;">
+    <th></th>
+    <th>United</th>
+    <th>American</th>
+    <th>Delta</th>
+  </tr>
+  <tr>
+    <td>Domestic Economy</td>
+    <td>1.3</td>
+    <td>1.0</td>
+    <td>1.2</td>
+  </tr>
+  <tr>
+    <td>Domestic First Class</td>
+    <td>1.0</td>
+    <td>0.9</td>
+    <td>1.1</td>
+  </tr>
+  <tr>
+    <td>Int'l Economy</td>
+    <td>1.5</td>
+    <td>1.5</td>
+    <td>1.1</td>
+  </tr>
+  <tr>
+    <td>Int'l First Class</td>
+    <td>2.2</td>
+    <td>1.7</td>
+    <td>1.4</td>
+  </tr>
+</table>
+
+Despite the higher points values, the strategies actually end up in a similar place:
+- For Delta, the mile redemption values for int'l travel is still worse than 1.5, the value of a standard Chase point. You still want to book on Chase's portal.
+- For American, there are MUCH better returns here than for domestic. You also get similar markups for the credit card portals, so you want to continue booking on aa.com.
+- United is a funny case. The valuations are epically better, especially for first class. Yet, Chase's portal > United's website no matter the point value. That's because you can transfer Chase points 1:1 for United miles. Booking on United with the best card gets you 2 United miles, but booking on Chase with the CSR gets you 5 Chase points, which you can turn into 5 United miles. The same is true for Southwest, another United partner. 
+
+So even for international, you still want to go with the same algorithm of "Chase portal for everything non-American" if you can. I say "if you can" because there are more int'l flights listed on the airline websites that you can't see on Chase than with domestic, so I would check both before booking.       
+
+**AmEx:** I see little value in this ecosystem. Chase's portal is far better: largely identical prices, higher-value points, & more options for redemption (no Southwest on AmEx). You can pair the free Chase Freedom Unlimited card with the CSR to ensure better returns than top AmEx cards on every spend category for a fraction of the price. I've gravitated to a smart friend's description of their top cards as the world's fanciest coupon cards. The AmEx rebates (Equinox, Soulcycle, Saks Fifth Avenue, CLEAR) are impressive, and if you've got pre-existing elite spending habits, it may be worth it to get the card just to apply the rebates to your existing bills. Otherwise, the once-a-lifetime signing bonuses are the only reason to ever swipe it.
+
+**Airline Status:** I'm convinced high status is simply unattainable as a consumer traveler. The amount of flights / spend you need can only be justified if your business pays. Optimizing for this over “take the cheaper airline” is likely a cash-burning strategy, worth it only if you put premium value on non-cash pieces (legroom, line waiting times, bragging rights to friends, etc.). As a side note, getting higher status doesn’t change the portal math. It only affects the base miles you get no matter how the flight is booked. Your marginal value on the portal still exceeds the airline credit card. 
 
 **Budget Airlines:** Many of the very low-cost carriers won't list tickets on Chase (Spirit, Frontier, and Allegiant). If you want to fly these, I suggest booking on their websites with the Chase Reserve. The miles are worthless unless you're a frequent flyer since you will never hit the redemption zone, but you'll get 3x Chase points per booking (4.5% back).    
 
-**Transfers:** I found each airline's miles were worth less than 1 Chase point (1.5 cents). Given the issues with miles above, I never transfer out of Chase/AmEx unless I realize value on miles I accrued elsewhere (i.e. transferring 1K points to make my 14K miles viable for redeeming a 15K flight). Generally, transferring seems to be a very low value use of points relative to standard redemptions. 
-
-**AmEx:** Why do people like this outside of nice starting bonuses? Chase's portal has identical prices sans Delta (which gives AmEx users a consistent ~2% discount) with higher-value points and more options for redemption (Southwest doesn't list on AmEx, another downside). The valuers give AmEx points similar value to Chase, largely based on how you can transfer and then redeem for first-class or international travel on foreign airlines. Since you’re giving up 33% value to Chase on standard redemptions, that has to be a very large portion of your travel spend for it to make sense. 
+**Transfers:** I found most airline's miles were worth less than 1 Chase point (1.5 cents). Given the issues with miles above, I never transfer out of Chase/AmEx unless I realize value on miles I accrued elsewhere (i.e. transferring 1K points to make my 14K miles viable for redeeming a 15K flight). Transferring is generally a low value use of points relative to standard redemptions. International first class is the exception, since you can get 2-3 cent redemptions fairly frequently.  
 
 ---------
 ### Footnotes     
-[^1]: Specifically looking at a combination of West Coast travel (LAX, SEA, etc.); mid-country travel (MDW, ORD, AUS, etc.) and cross-country travel (EWR, BOS, etc.). 
-[^2]: Alaska gives you miles based on the length of your flight. After sense-checking a couple data points, I used 5 miles / dollar as my estimate here too.
-[^3]: The other general use cards (Citi, CapOne) are significantly worse for redemptions, so I have excluded them for simplicity.
-[^4]: Respectively, this is the [Citi Executive World Elite](https://creditcards.aa.com/citi-executive-card-american-airlines-wand/), the [Alaska Airlines Visa Signature](https://www.bankofamerica.com/credit-cards/airline-credit-cards/), the [Delta SkyMiles Gold](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/), the [United Explorer](https://www2.theexplorercard.com/rewards-cards/explorer-card?), the [JetBlue Business](https://www.nerdwallet.com/card-details/card-name/jetblue-business-card?), and the [Southwest Rapid Rewards Priority](https://creditcards.chase.com/a1/southwest/NAEP30kCPPriority224?). 
+[^1]: The $550 cost of the card looks very hefty, but you'll get $300 of it back in an incredibly generous travel credit. Other credit cards force you to use their system to get this discount, but Chase automatically applies it to daily spend across Ubers, Lyfts, Airbnbs, hotels, airlines, etc. You need to redeem only 16.7K Chase points for travel to justify the other $250. You get 3x points for groceries/restaurants and 7x for travel, so $3K of food spend and $1K of travel spend will get you there.     
+[^2]: Specifically looking at a combination of West Coast travel (LAX, SEA, etc.); mid-country travel (MDW, ORD, AUS, etc.) and cross-country travel (EWR, BOS, etc.). 
+[^3]: Alaska gives you miles based on the length of your flight. After sense-checking a couple data points, I used 5 miles / dollar as my estimate here too.
+[^4]: The other general use cards (Citi, CapOne) are significantly worse for redemptions, so I have excluded them for simplicity.
+[^5]: Respectively, this is the [Citi Executive World Elite](https://creditcards.aa.com/citi-executive-card-american-airlines-wand/), the [Alaska Airlines Visa Signature](https://www.bankofamerica.com/credit-cards/airline-credit-cards/), the [Delta SkyMiles Gold](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/), the [United Explorer](https://www2.theexplorercard.com/rewards-cards/explorer-card?), the [JetBlue Plus](https://www.nerdwallet.com/reviews/credit-cards/jetblue-plus), and the [Southwest Rapid Rewards Priority](https://creditcards.chase.com/a1/southwest/NAEP30kCPPriority224?). 
+[^6]: On American, the card is much more expensive ($595) and impossible to justify. The card gives you an incremental 3 American miles per dollar spent, but if you book on their website with either the best Chase or AmEx cards, you'll get back 3 Chase / 5 AmEx points. Both are worth more than 3 American miles under the above valuations, even without taking into account the added liquidity of points over miles. 
